@@ -1,0 +1,90 @@
+.header{
+	display: flex;
+	height: 500px;
+	background-color: blue;
+	text-align: center;
+}
+.box1{
+	height: 500px;
+	width: 400px;
+	margin-right: 200px;
+	margin: auto auto
+}
+.help div{
+	box-sizing: border-box;
+	padding-top: 10px;
+	border-radius: 10px
+}
+.help{
+	text-align: center;
+	display: flex;
+	background-color: blue;
+	height: 50px;
+	margin-top: 20px;
+	width:200px;
+	margin: auto auto;
+	box-sizing: border-box;
+	padding-top: 10px
+}
+.help1{
+	height: 50px;
+	width: 70px;
+	margin-right: 20px;
+	background-color: yellow 
+}
+.help2{
+	height: 50px;
+	width: 70px;
+	margin-right: 20px;
+	background-color: yellow 
+}
+.help3{
+	height: 50px;
+	width: 70px;
+	background-color: yellow 
+}
+.middle div{
+	height: 70px;
+	background: purple;
+	text-align: center;
+	font-size: 40px
+}
+button{
+	padding: 20px 60px;
+	border-radius: 10px;
+	border:none;
+}
+.vopros2{
+	display: none
+}
+.vopros3{
+	display: none
+}
+.vopros4{
+	display:none;
+}
+.money{
+	background-color: cyan;
+	height: 400px;
+	margin-top: 50px;
+	border-radius: 10px
+}
+.money p{
+	margin: 9px
+}
+.lose{
+	height: 117px;
+	background: purple;
+	text-align: center;
+	font-size: 50px;
+	box-sizing: border-box;
+	padding-top: 25px
+}
+.win{
+		height: 117px;
+	background: purple;
+	text-align: center;
+	font-size: 50px;
+	box-sizing: border-box;
+	padding-top: 25px
+}
